@@ -1,0 +1,28 @@
+How to run the jewellery_shop  Project using PHP
+
+1. Download the zip file
+
+2.Extract the file and copy jewellery_shop folder
+
+3.Paste inside root directory(for xampp -> htdox -> PAST "jewellery_shop")
+
+4.Open PHPMyAdmin ( http://localhost/phpmyadmin ) in crom browser 
+
+5.Create a database with name " jewelry_shop "
+
+6.Import db.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/jewellery_shop/HTML/login.html (frontend)
+
+
+
+8. Register first we have 2 option ( Admin / User ) 
+   	a) Admin: is for main login creation to check the user deatils and product 
+	b) user : is for e cart to check all the products and buy
+	
+
+9 Test users create 
+
+
+
+
